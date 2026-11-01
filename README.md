@@ -2,6 +2,8 @@ CT4101 Machine Learning Portfolio Project
 
 Project Overview
 
+Github Link: https://github.com/OCarolan2/CT4101-Machine-Learning-Portfolio-Project
+
 Title: Predicting Netflix Subscriber Churn
 
 This project uses machine learning to predict whether a Netflix customer will churn based on demographic, subscription and engagement data. It is a binary classification problem where churned = 0 means retained and churned = 1 means churned.
