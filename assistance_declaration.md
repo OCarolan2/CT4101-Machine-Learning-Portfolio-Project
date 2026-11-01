@@ -1,0 +1,1 @@
+I used ChatGpt to help me understand what was required for Milestone 2 and to help me understand how to setup my Jupyter Notebook environment.

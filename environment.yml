@@ -1,0 +1,12 @@
+name: ct4101project
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - matplotlib
+  - notebook
+  - ipykernel
+  - pandas
+  - seaborn
+  - numpy
